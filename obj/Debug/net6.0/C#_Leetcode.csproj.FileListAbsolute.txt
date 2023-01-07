@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C#_Leetcode\obj\Debug\net6.0\C#_Leetcode.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#_Leetcode\obj\Debug\net6.0\C#_Leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C#_Leetcode\obj\Debug\net6.0\C#_Leetcode.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C#_Leetcode\obj\Debug\net6.0\C#_Leetcode.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C#_Leetcode\obj\Debug\net6.0\C#_Leetcode.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#_Leetcode\bin\Debug\net6.0\C#_Leetcode.exe
+C:\Users\Lenovo\Desktop\C#_Leetcode\bin\Debug\net6.0\C#_Leetcode.deps.json
+C:\Users\Lenovo\Desktop\C#_Leetcode\bin\Debug\net6.0\C#_Leetcode.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C#_Leetcode\bin\Debug\net6.0\C#_Leetcode.dll
+C:\Users\Lenovo\Desktop\C#_Leetcode\bin\Debug\net6.0\C#_Leetcode.pdb
+C:\Users\Lenovo\Desktop\C#_Leetcode\obj\Debug\net6.0\C#_Leetcode.dll
+C:\Users\Lenovo\Desktop\C#_Leetcode\obj\Debug\net6.0\refint\C#_Leetcode.dll
+C:\Users\Lenovo\Desktop\C#_Leetcode\obj\Debug\net6.0\C#_Leetcode.pdb
+C:\Users\Lenovo\Desktop\C#_Leetcode\obj\Debug\net6.0\C#_Leetcode.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C#_Leetcode\obj\Debug\net6.0\ref\C#_Leetcode.dll
